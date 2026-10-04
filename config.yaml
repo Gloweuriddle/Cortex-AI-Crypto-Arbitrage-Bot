@@ -1,0 +1,40 @@
+# Cortex AI v3.4 — Configuration
+# Official site: https://runcortex.xyz/
+
+dry_run: true                # Set to false ONLY when you understand the risks
+scanner:
+  interval_ms: 10000         # Scan every 10 seconds
+  min_spread_pct: 0.10       # Only trade if spread >= 0.10%
+
+pairs:
+  - BTC/USDT
+  - ETH/USDT
+  - TON/USDT
+  - SOL/USDC
+
+exchanges:
+  - binance
+  - bybit
+  - okx
+  - htx
+
+risk:
+  max_position_usd: 500
+  max_daily_loss_usd: 100
+  min_spread_pct: 0.10
+  max_open_positions: 3
+
+# API keys — NEVER commit real keys to GitHub
+api_keys:
+  binance:
+    key: "YOUR_API_KEY_HERE"
+    secret: "YOUR_API_SECRET_HERE"
+  bybit:
+    key: "YOUR_API_KEY_HERE"
+    secret: "YOUR_API_SECRET_HERE"
+  okx:
+    key: "YOUR_API_KEY_HERE"
+    secret: "YOUR_API_SECRET_HERE"
+  htx:
+    key: "YOUR_API_KEY_HERE"
+    secret: "YOUR_API_SECRET_HERE"
