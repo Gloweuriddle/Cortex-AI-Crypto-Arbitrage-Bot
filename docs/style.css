@@ -5,16 +5,15 @@
 }
 
 body {
-  font-family: "JetBrains Mono", monospace;
+  font-family: "JetBrains Mono", "Fira Code", monospace;
   background: #0a0a0a;
   color: #e0e0e0;
   line-height: 1.6;
-  padding: 2rem;
 }
 
 header {
   text-align: center;
-  padding: 4rem 1rem;
+  padding: 5rem 1rem 4rem;
   border-bottom: 1px solid #1a1a1a;
 }
 
@@ -22,12 +21,13 @@ h1 {
   font-size: 3rem;
   color: #00ffb2;
   letter-spacing: 2px;
+  margin-bottom: 1rem;
 }
 
 .tagline {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: #888;
-  margin: 1rem 0 2rem;
+  margin-bottom: 2.5rem;
 }
 
 .cta {
@@ -38,6 +38,12 @@ h1 {
   border-radius: 6px;
   text-decoration: none;
   font-weight: 700;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.cta:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 30px rgba(0, 255, 178, 0.4);
 }
 
 section {
@@ -49,11 +55,29 @@ section {
 h2 {
   color: #00ffb2;
   margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.hint {
+  color: #666;
+  font-size: 0.85rem;
+  margin-bottom: 1.5rem;
+}
+
+.loading {
+  color: #00ffb2;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
+  margin-top: 1rem;
 }
 
 th, td {
@@ -64,6 +88,56 @@ th, td {
 
 th {
   color: #00ffb2;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+td a {
+  color: #00ffb2;
+  text-decoration: none;
+  border-bottom: 1px dotted #00ffb2;
+}
+
+.updated {
+  font-size: 0.75rem;
+  color: #555;
+  margin-top: 1rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.card {
+  background: #111;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #1a1a1a;
+  transition: border-color 0.2s;
+}
+
+.card:hover {
+  border-color: #00ffb2;
+}
+
+.card h3 {
+  color: #00ffb2;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.card p {
+  color: #999;
+  font-size: 0.9rem;
+}
+
+#cta-bottom {
+  text-align: center;
+  padding: 3rem 1rem;
 }
 
 footer {
@@ -71,6 +145,7 @@ footer {
   padding: 2rem;
   color: #666;
   border-top: 1px solid #1a1a1a;
+  font-size: 0.9rem;
 }
 
 footer a {
